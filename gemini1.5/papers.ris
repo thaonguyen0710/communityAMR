@@ -1,0 +1,152 @@
+﻿TY  - JOUR
+AB  - While the use of long-term macrolide therapy to prevent exacerbations in chronic respiratory diseases is widespread, its impact on the oropharyngeal microbiota and macrolide resistance, and the potential for onward transmission of resistance to close contacts are poorly understood. We determined the effects of long-term exposure to azithromycin or erythromycin on phenotypic and genotypic macrolide resistance within the oropharyngeal microbiome of healthy adults and their close contacts in a randomized, single-blinded, parallel-group trial of 4 weeks of twice-daily oral 400 mg erythromycin ethylsuccinate or twice-daily oral 125 mg azithromycin. Using oropharyngeal swabs collected from 20 index healthy adults and 20 paired close contacts, the oropharyngeal microbial composition and macrolide resistance in streptococci were assessed by 16S rRNA sequencing and antibiotic susceptibility testing of oropharyngeal cultures, respectively, at baseline and weeks 4 and 8 (washout). Targeted quantitative PCR of antibiotic resistance genes was performed to evaluate paired changes in resistance gene levels in index patients and close contacts and to relate the potential transmission of antibiotic resistance. Neither azithromycin nor erythromycin altered oropharyngeal microbiota characteristics significantly. Proportional macrolide resistance in oropharyngeal streptococci increased with both erythromycin and azithromycin, remaining above baseline levels for the azithromycin group at washout. Levels of resistance genes increased significantly with azithromycin[erm(B) and mef] and erythromycin (mef), returning to baseline levels at washout only for the erythromycin group. We found no evidence of onward transmission of resistance to close contacts, as indicated by the lack of concomitant changes in resistance gene levels detected in close contacts. (This study has been registered with the Australian and New Zealand Clinical Trials Registry under identifier ACTRN12617000278336.).
+AD  - Department of Respiratory Medicine, Mater Adult Hospitalgrid.416528.c, South Brisbane, Queensland, Australia.
+Immunity, Infection, and Inflammation Program, Mater Research Institute-University of Queensland, Translational Research Institute, Woolloongabba, Queensland, Australia.
+Microbiome & Host Health Programme, South Australia Health and Medical Research Institute, North Terrace, Adelaide, South Australia, Australia.
+Infection and Immunity, College of Medicine and Public Health, Flinders University, Bedford Park, South Australia, Australia.
+AN  - 35293783
+AU  - Burr, L. D.
+AU  - Taylor, S. L.
+AU  - Richard, A.
+AU  - Schreiber, V.
+AU  - Lingman, S.
+AU  - Martin, M.
+AU  - Papanicolas, L. E.
+AU  - Choo, J. M.
+AU  - Rogers, G. B.
+C2  - PMC9017296
+DA  - Apr 19
+DO  - 10.1128/aac.02246-21
+DP  - NLM
+ET  - 2022/03/17
+IS  - 4
+J2  - Antimicrobial agents and chemotherapy
+KW  - Adult
+*Anti-Bacterial Agents/pharmacology/therapeutic use
+Australia
+Azithromycin/pharmacology/therapeutic use
+Drug Resistance, Bacterial/genetics
+Erythromycin/pharmacology
+Humans
+Macrolides/pharmacology
+*Microbiota
+RNA, Ribosomal, 16S/genetics
+Streptococcus
+antibiotic resistance genes
+antibiotic resistance transmission
+azithromycin
+erythromycin
+healthy adults
+macrolides
+oropharyngeal microbiome
+LA  - eng
+N1  - 1098-6596
+Burr, Lucy D
+Taylor, Steven L
+Richard, Alyson
+Schreiber, Veronika
+Lingman, Stevie
+Martin, Megan
+Papanicolas, Lito E
+Choo, Jocelyn M
+Orcid: 0000-0001-9500-8360
+Rogers, Geraint B
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Antimicrob Agents Chemother. 2022 Apr 19;66(4):e0224621. doi: 10.1128/aac.02246-21. Epub 2022 Mar 16.
+PY  - 2022
+SN  - 0066-4804 (Print)
+0066-4804
+SP  - e0224621
+ST  - Assessment of Long-Term Macrolide Exposure on the Oropharyngeal Microbiome and Macrolide Resistance in Healthy Adults and Consequences for Onward Transmission of Resistance
+T2  - Antimicrob Agents Chemother
+TI  - Assessment of Long-Term Macrolide Exposure on the Oropharyngeal Microbiome and Macrolide Resistance in Healthy Adults and Consequences for Onward Transmission of Resistance
+VL  - 66
+ID  - 236
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Antimicrobial resistance (AMR) is one of the top ten global public health challenges. However, given the lack of a comprehensive assessment of worldwide AMR status, our objective is to develop a One Health-based system-wide evaluation tool on global AMR. METHODS: We have further developed the three-hierarchical Global One Health Index (GOHI)-AMR indicator scheme, which consists of five key indicators, 17 indicators, and 49 sub-indicators, by incorporating 146 countries' data from diverse authoritative databases, including WHO's Global Antimicrobial Resistance and Use Surveillance System (GLASS) and the European CDC. We investigated the overall- or sub-rankings of GOHI-AMR at the international/regional/national levels for data preprocessing and score calculation utilizing the existing GOHI methodology. Additionally, a correlation analysis was conducted between the GOHI-AMR and other socioeconomic factors. RESULTS: The average GOHI-AMR score for 146 countries is 38.45. As expected, high-income countries (HICs) outperform the other three income groups on overall rankings and all five key indicators of GOHI-AMR, whereas low-income countries unexpectedly outperform upper-middle-income countries and lower-middle-income countries on the antibiotics-resistant key indicator (ARR) and ARR-subordinate indicators, including carbapenem-, β-lactam-, and quinolone resistance, and even HICs on aminoglycoside resistance. There were no significant differences among the four groups on the environmental-monitoring indicator (P > 0.05). GOHI-AMR was positively correlated with gross domestic product, life expectancy, and AMR-related publications, but negatively with natural growth rate and chronic respiratory disease. In contrast to Cyprus, the remarkably lower prevalence of "ESKAPE pathogens" in high-scoring Sweden and Denmark highlights Europe's huge gaps. China and Russia outperformed the other three BRICS countries on all key indicators, particularly India's ARR and Brazil's AMR laboratory network and coordination capacity. Furthermore, significant internal disparities in carbapenem-resistant Klebsiella pneumoniae (CRKP) and methicillin-resistant Staphylococcus aureus (MRSA) prevalence were observed between China and the USA, with MRSA prevalence both gradually declining, whereas CRKP prevalence has been declining in the USA but increasing in China, consistent with higher carbapenems-related indicator' performance in USA. CONCLUSIONS: GOHI-AMR is the most comprehensive tool currently available for the assessment of AMR status worldwide. We discovered unique features impacting AMR in each country and offered precise recommendations to improve the capacity to tackle AMR in low-ranking countries.
+AD  - Department of Animal Health and Food Safety, School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China.
+One Health Center, Shanghai Jiao Tong University-The University of Edinburgh, Shanghai, 200025, China.
+Department of Population Medicine and Diagnostic Sciences, College of Veterinary Medicine, Cornell University, Ithaca, NY, USA.
+Department of Infectious Diseases and Public Health, Jockey Club College of Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon, Hong Kong, China.
+Department of Animal Health and Food Safety, School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China. xkguo@shsmu.edu.cn.
+One Health Center, Shanghai Jiao Tong University-The University of Edinburgh, Shanghai, 200025, China. xkguo@shsmu.edu.cn.
+Department of Animal Health and Food Safety, School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China. zhouxn1@chinacdc.cn.
+One Health Center, Shanghai Jiao Tong University-The University of Edinburgh, Shanghai, 200025, China. zhouxn1@chinacdc.cn.
+National Institute of Parasitic Diseases at Chinese Center for Disease Control and Prevention (Chinese Center for Tropical Diseases Research), NHC Key Laboratory of Parasite and Vector Biology, WHO Collaborating Centre for Tropical Diseases, Shanghai, China. zhouxn1@chinacdc.cn.
+Department of Animal Health and Food Safety, School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China. minli@shsmu.edu.cn.
+One Health Center, Shanghai Jiao Tong University-The University of Edinburgh, Shanghai, 200025, China. minli@shsmu.edu.cn.
+Department of Animal Health and Food Safety, School of Global Health, Chinese Center for Tropical Diseases Research, Shanghai Jiao Tong University School of Medicine, Shanghai, 200025, China. yzhzhu@sjtu.edu.cn.
+One Health Center, Shanghai Jiao Tong University-The University of Edinburgh, Shanghai, 200025, China. yzhzhu@sjtu.edu.cn.
+AN  - 35996187
+AU  - Zhou, N.
+AU  - Cheng, Z.
+AU  - Zhang, X.
+AU  - Lv, C.
+AU  - Guo, C.
+AU  - Liu, H.
+AU  - Dong, K.
+AU  - Zhang, Y.
+AU  - Liu, C.
+AU  - Chang, Y. F.
+AU  - Chen, S.
+AU  - Guo, X.
+AU  - Zhou, X. N.
+AU  - Li, M.
+AU  - Zhu, Y.
+C2  - PMC9395850
+DA  - Aug 23
+DO  - 10.1186/s40249-022-01016-5
+DP  - NLM
+ET  - 2022/08/23
+IS  - 1
+J2  - Infectious diseases of poverty
+KW  - Anti-Bacterial Agents/pharmacology/therapeutic use
+Carbapenems/pharmacology
+Drug Resistance, Bacterial
+*Methicillin-Resistant Staphylococcus aureus
+*One Health
+Antimicrobial resistance surveillance networks
+Global One Health Index
+Global antimicrobial resistance
+Poverty. He was not involved in the peer-review or handling of the manuscript.
+The authors have no other competing interests to disclose.
+LA  - eng
+N1  - 2049-9957
+Zhou, Nan
+Cheng, Zile
+Zhang, Xiaoxi
+Lv, Chao
+Guo, Chaoyi
+Liu, Haodong
+Dong, Ke
+Zhang, Yan
+Liu, Chang
+Chang, Yung-Fu
+Chen, Sheng
+Guo, Xiaokui
+Zhou, Xiao-Nong
+Li, Min
+Zhu, Yongzhang
+Orcid: 0000-0001-7452-4964
+32170141/National Natural Science Foundation of China/
+20-365/China Medical Board/
+2020-01/Shanghai Jiao Tong University Integrated Innovation Fund/
+Journal Article
+England
+Infect Dis Poverty. 2022 Aug 23;11(1):92. doi: 10.1186/s40249-022-01016-5.
+PY  - 2022
+SN  - 2095-5162 (Print)
+2049-9957
+SP  - 92
+ST  - Global antimicrobial resistance: a system-wide comprehensive investigation using the Global One Health Index
+T2  - Infect Dis Poverty
+TI  - Global antimicrobial resistance: a system-wide comprehensive investigation using the Global One Health Index
+VL  - 11
+ID  - 235
+ER  - 
+

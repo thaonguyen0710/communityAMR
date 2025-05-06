@@ -1,0 +1,7 @@
+# Project dependencies
+google-genai
+pandas
+python-dotenv
+bibtexparser
+rispy # For reading RIS files
+# PyPDF2 # Optional: uncomment if PDF parsing is needed 
